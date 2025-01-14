@@ -9,7 +9,7 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/2whyprivacyhard.pdf
+    - url: /static_files/presentations/3locationprivacy.pdf
       name: Why is Privacy hard?
 ---
 **Suggested Readings:**
