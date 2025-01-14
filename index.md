@@ -15,9 +15,7 @@ This course is designed to provide students in data science with an initial base
 
 
 ## Readings
-This course is centered around readings from the research literature.  Many of these readings will be drawn from the ACM Digital Library. Material from the ACM digital library is available free when accessed from any computer on the CMU network.  To access the material free from other computers use the VPN service.  For VPN, the instructions are at: https://www.cmu.edu/computing/services/endpoint/network-access/vpn/index.html. There will be a number of required readings each week, as shown in the schedule.
-
-If you are knowledgeable about an area and want to recommend a different paper, please let the professor know!
+This course is centered around readings from the research literature.  Many of these readings will be drawn from the ACM Digital Library. Material from the ACM digital library is available free when accessed from any computer on the campus network.  If you are knowledgeable about an area and want to recommend a different paper, please let the professor know!
 
 
 
