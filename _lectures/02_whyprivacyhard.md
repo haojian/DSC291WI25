@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-01-09
-title: Introduction 
+title: Why is Privacy Hard? 
 tldr: "Course goals, content, format, pre-requisites, grading"
 thumbnail: /static_files/presentations/placeholder.jpg
 links: 
