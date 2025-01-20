@@ -10,7 +10,7 @@ links:
     # - url: /static_files/presentations/code.zip
     #   name: codes
     - url: /static_files/presentations/3locationprivacy.pdf
-      name: Why is Privacy hard?
+      name: Location Privacy
 ---
 **Suggested Readings:**
 - [Inference Attacks on Location Tracks](https://www.microsoft.com/en-us/research/publication/inference-attacks-location-tracks/)
