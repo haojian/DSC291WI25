@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-01-09
+date: 2025-01-14
 title: Location Privacy 
 tldr: "location privacy"
 thumbnail: /static_files/presentations/placeholder.jpg

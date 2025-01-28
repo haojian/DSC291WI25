@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-01-09
+date: 2025-01-21
 title: Permissions for Privacy
 tldr: "Permissions for Privacy"
 thumbnail: /static_files/presentations/placeholder.jpg

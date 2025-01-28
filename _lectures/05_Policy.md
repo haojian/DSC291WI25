@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-01-09
+date: 2025-01-28
 title: Policies for Privacy
 tldr: "Policies for Privacy"
 thumbnail: /static_files/presentations/placeholder.jpg
