@@ -10,7 +10,7 @@ links:
     # - url: /static_files/presentations/code.zip
     #   name: codes
     - url: /static_files/presentations/5policy.pdf
-      name: Permissions for Privacy
+      name: Policies for Privacy
 ---
 **Suggested Readings:**
 
