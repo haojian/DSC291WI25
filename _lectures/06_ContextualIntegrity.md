@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2025-01-28
-title: Policies for Privacy
-tldr: "Policies for Privacy"
+date: 2025-02-03
+title: Contextual Integrity
+tldr: "Contextual Integrity"
 thumbnail: /static_files/presentations/placeholder.jpg
 links: 
     # - url: /static_files/presentations/lec.zip
@@ -10,7 +10,7 @@ links:
     # - url: /static_files/presentations/code.zip
     #   name: codes
     - url: /static_files/presentations/ContextualIntegrity.pdf
-      name: Contextual Integrity (Privacy as Norms)
+      name: Contextual Integrity
 ---
 **Suggested Readings:**
 
