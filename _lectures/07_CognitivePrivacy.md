@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-02-03
+date: 2025-02-10
 title: Cognitive Privacy
 tldr: "Cognitive Privacy"
 thumbnail: /static_files/presentations/placeholder.jpg
