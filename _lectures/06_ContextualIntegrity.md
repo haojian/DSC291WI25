@@ -1,16 +1,16 @@
 ---
 type: lecture
 date: 2025-02-03
-title: Contextual Integrity
-tldr: "Contextual Integrity"
+title: Privacy Norms
+tldr: "Privacy Norms"
 thumbnail: /static_files/presentations/placeholder.jpg
 links: 
     # - url: /static_files/presentations/lec.zip
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/ContextualIntegrity.pdf
-      name: Contextual Integrity
+    - url: /static_files/presentations/6conceptualprivacy.pdf
+      name: Privacy Norms
 ---
 **Suggested Readings:**
 
