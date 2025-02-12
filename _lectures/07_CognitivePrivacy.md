@@ -9,7 +9,7 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/CognitivePrivacy.pdf
+    - url: /static_files/presentations/7cognitiveprivacy.pdf
       name: Cognitive Privacy
 ---
 **Suggested Readings:**
