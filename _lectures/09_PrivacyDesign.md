@@ -9,7 +9,7 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/presentations/9developerprivacy.pdf
+    - url: /static_files/presentations/9privacydesign.pdf
       name: Privacy & Developers & Design
 ---
 **Suggested Readings:**
