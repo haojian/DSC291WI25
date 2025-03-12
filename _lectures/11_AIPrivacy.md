@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2025-03-02
-title: Privacy regulation
-tldr: "Privacy regulation"
+title: AI Privacy/Safety
+tldr: "AI Privacy/Safety"
 thumbnail: /static_files/presentations/placeholder.jpg
 links: 
     # - url: /static_files/presentations/lec.zip
